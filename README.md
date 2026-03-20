@@ -1,2 +1,3 @@
-# super-social-platform-fwra
-A social networking platform for modern development workflows
+# Super Social Platform Fwra
+
+A social networking platform for modern development workflows.
